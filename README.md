@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mlops_main
 ==============================
 
@@ -55,3 +56,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# ml_ops
+>>>>>>> e0cfb8d758801f9db1b3a12fc30d065cf9838d6c
